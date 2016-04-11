@@ -1,0 +1,5 @@
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Domain\bin\Debug\Domain.dll
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Domain\bin\Debug\Domain.pdb
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Domain\obj\Debug\Domain.dll
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Domain\obj\Debug\Domain.pdb

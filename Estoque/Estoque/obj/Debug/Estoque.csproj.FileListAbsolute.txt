@@ -1,0 +1,18 @@
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\bin\Debug\Estoque.exe.config
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\bin\Debug\Estoque.exe
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\bin\Debug\Estoque.pdb
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\obj\Debug\Estoque.csprojResolveAssemblyReference.cache
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\obj\Debug\Estoque.Form1.resources
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\obj\Debug\Estoque.Properties.Resources.resources
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\obj\Debug\Estoque.csproj.GenerateResource.Cache
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\obj\Debug\Estoque.exe
+c:\users\ti\documents\visual studio 2013\Projects\Estoque\Estoque\obj\Debug\Estoque.pdb
+C:\Users\CASA\Desktop\Estoque\Estoque\bin\Debug\Estoque.exe.config
+C:\Users\CASA\Desktop\Estoque\Estoque\obj\Debug\Estoque.exe
+C:\Users\CASA\Desktop\Estoque\Estoque\obj\Debug\Estoque.pdb
+C:\Users\CASA\Desktop\Estoque\Estoque\obj\Debug\Estoque.csprojResolveAssemblyReference.cache
+C:\Users\CASA\Desktop\Estoque\Estoque\obj\Debug\Estoque.Form1.resources
+C:\Users\CASA\Desktop\Estoque\Estoque\obj\Debug\Estoque.Properties.Resources.resources
+C:\Users\CASA\Desktop\Estoque\Estoque\obj\Debug\Estoque.csproj.GenerateResource.Cache
+C:\Users\CASA\Desktop\Estoque\Estoque\bin\Debug\Estoque.exe
+C:\Users\CASA\Desktop\Estoque\Estoque\bin\Debug\Estoque.pdb

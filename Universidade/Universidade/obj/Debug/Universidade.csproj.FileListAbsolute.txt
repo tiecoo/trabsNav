@@ -1,0 +1,9 @@
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\bin\Debug\Universidade.exe.config
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\obj\Debug\Universidade.csprojResolveAssemblyReference.cache
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\obj\Debug\Universidade.Properties.Resources.resources
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\obj\Debug\Universidade.csproj.GenerateResource.Cache
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\bin\Debug\Universidade.exe
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\bin\Debug\Universidade.pdb
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\obj\Debug\Universidade.exe
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\obj\Debug\Universidade.pdb
+c:\users\casa\documents\visual studio 2013\Projects\Universidade\Universidade\obj\Debug\Universidade.Main.resources

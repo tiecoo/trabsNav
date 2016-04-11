@@ -1,0 +1,28 @@
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\bin\Debug\Sellers2.exe.config
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\bin\Debug\Sellers2.exe
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\bin\Debug\Sellers2.pdb
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\View.csprojResolveAssemblyReference.cache
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\Sellers2.Properties.Resources.resources
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\View.csproj.GenerateResource.Cache
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\Sellers2.exe
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\Sellers2.pdb
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\Sellers2.LoginForm.resources
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\Sellers2.View.Properties.Resources.resources
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\Sellers2.View.Login.resources
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\Sellers2.View.Main.resources
+c:\users\arlete\documents\visual studio 2013\Projects\Sellers2\Sellers2\obj\Debug\Sellers2.Edit.resources
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\bin\Debug\Sellers2.exe.config
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\obj\Debug\Sellers2.exe
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\obj\Debug\View.csprojResolveAssemblyReference.cache
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\obj\Debug\Sellers2.View.Login.resources
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\obj\Debug\Sellers2.View.Main.resources
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\obj\Debug\Sellers2.View.Properties.Resources.resources
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\obj\Debug\View.csproj.GenerateResource.Cache
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\bin\Debug\Sellers2.exe
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\bin\Debug\Sellers2.pdb
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\bin\Debug\Domain.dll
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\bin\Debug\Infra.dll
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\bin\Debug\Domain.pdb
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\bin\Debug\Infra.pdb
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\obj\Debug\Sellers2.pdb
+C:\Users\w4lte\Desktop\Sellers2\Sellers2\obj\Debug\Sellers2.View.Update.resources

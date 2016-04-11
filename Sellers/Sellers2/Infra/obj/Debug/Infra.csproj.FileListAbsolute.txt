@@ -1,0 +1,16 @@
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Infra\bin\Debug\Infra.dll.config
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Infra\bin\Debug\Infra.dll
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Infra\bin\Debug\Infra.pdb
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Infra\bin\Debug\Domain.dll
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Infra\bin\Debug\Domain.pdb
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Infra\obj\Debug\Infra.dll
+c:\Users\Arlete\documents\visual studio 2013\Projects\Sellers2\Infra\obj\Debug\Infra.pdb
+C:\Users\w4lte\Desktop\Sellers2\Infra\bin\Debug\Infra.dll.config
+C:\Users\w4lte\Desktop\Sellers2\Infra\bin\Debug\Infra.dll
+C:\Users\w4lte\Desktop\Sellers2\Infra\bin\Debug\Infra.pdb
+C:\Users\w4lte\Desktop\Sellers2\Infra\bin\Debug\Domain.dll
+C:\Users\w4lte\Desktop\Sellers2\Infra\bin\Debug\Domain.pdb
+C:\Users\w4lte\Desktop\Sellers2\Infra\obj\Debug\Infra.csprojResolveAssemblyReference.cache
+C:\Users\w4lte\Desktop\Sellers2\Infra\obj\Debug\Infra.dll
+C:\Users\w4lte\Desktop\Sellers2\Infra\obj\Debug\Infra.pdb
